@@ -19,4 +19,4 @@ the relevant calls to the arDrone yet as it's winter outside and no space to fly
 Replacing the console.log printouts with the relevant node copter .js actions would achieve this and is left as an exercise
 to the interested reader. 
 
-To get you starting, I have implemented <i>client.animateLeds('doubleMissile',5,2)</i> on a up motion 
+To get you started, I have implemented <i>client.animateLeds('doubleMissile',5,2)</i> on a up motion 
