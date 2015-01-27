@@ -1,5 +1,5 @@
 # Drone-Leap-JS
-Control the Parrot AR Drone with Leap Motion and Leap JS
+Control the Parrot AR Drone with the awesome Leap Motion and Leap JS
 
 C. Papathanasiou 2015
 
