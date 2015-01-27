@@ -5,6 +5,7 @@ C. Papathanasiou 2015
 
 
 <b>Dependancies</b>
+<br>
 Depends on the following node.js libraries:
 <br>
 https://github.com/felixge/node-ar-drone
